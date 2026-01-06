@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://noi.nofwl.com/blog</id>
+    <id>https://noib.app/blog</id>
     <title>Noi Blog</title>
-    <updated>2025-09-15T03:45:50.000Z</updated>
+    <updated>2026-01-06T05:57:10.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://noi.nofwl.com/blog"/>
+    <link rel="alternate" href="https://noib.app/blog"/>
     <subtitle>Noi Blog</subtitle>
-    <icon>https://noi.nofwl.com/img/noi.png</icon>
+    <icon>https://noib.app/img/noi.png</icon>
     <entry>
         <title type="html"><![CDATA[Hello, Noi]]></title>
-        <id>https://noi.nofwl.com/blog/noi</id>
-        <link href="https://noi.nofwl.com/blog/noi"/>
-        <updated>2025-09-15T03:45:50.000Z</updated>
+        <id>https://noib.app/blog/noi</id>
+        <link href="https://noib.app/blog/noi"/>
+        <updated>2026-01-06T05:57:10.000Z</updated>
         <summary type="html"><![CDATA[🚀 Power Your World with AI - Explore, Extend, Empower.]]></summary>
         <content type="html"><![CDATA[<p>🚀 Power Your World with AI - Explore, Extend, Empower.</p>]]></content>
         <author>

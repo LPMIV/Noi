@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Noi Blog</title>
-        <link>https://noi.nofwl.com/blog</link>
+        <link>https://noib.app/blog</link>
         <description>Noi Blog</description>
-        <lastBuildDate>Mon, 15 Sep 2025 03:45:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 05:57:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[Hello, Noi]]></title>
-            <link>https://noi.nofwl.com/blog/noi</link>
-            <guid>https://noi.nofwl.com/blog/noi</guid>
-            <pubDate>Mon, 15 Sep 2025 03:45:50 GMT</pubDate>
+            <link>https://noib.app/blog/noi</link>
+            <guid>https://noib.app/blog/noi</guid>
+            <pubDate>Tue, 06 Jan 2026 05:57:10 GMT</pubDate>
             <description><![CDATA[🚀 Power Your World with AI - Explore, Extend, Empower.]]></description>
             <content:encoded><![CDATA[<p>🚀 Power Your World with AI - Explore, Extend, Empower.</p>]]></content:encoded>
         </item>
