@@ -22,7 +22,7 @@
 * **Multiple themes & visual styles** to fit different setups and vibes
 * ...
 
-[Download...](https://github.com/lencx/Noi/releases/tag/v1.0.0)
+[Download...](https://github.com/lencx/Noi/releases/tag/v1.1.0)
 
 <img alt="Noi Preview" src="./website/static/readme/preview.png" />
 
