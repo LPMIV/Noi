@@ -1,0 +1,46 @@
+[
+  {
+    "act": "Memory: Add (direct)",
+    "prompt": "[Memory Add] {CONTENT_HERE}"
+  },
+  {
+    "act": "Memory: Add (wizard)",
+    "prompt": "Create a new long-term memory entry.\n\nAsk me for the exact memory content in ONE question. If I already pasted it in my previous message, use that and do not ask again.\n\nThen output ONLY the final command (no commentary):\n[Memory Add] {<CONTENT>}"
+  },
+  {
+    "act": "Memory: Update (direct)",
+    "prompt": "[Memory Update] {UPDATED_MEMORY_TEXT_HERE}"
+  },
+  {
+    "act": "Memory: Update (wizard)",
+    "prompt": "Update/overwrite an existing long-term memory entry.\n\nAsk me for the updated memory text in ONE question. If I already provided it in my previous message, use that and do not ask again.\n\nThen output ONLY the final command (no commentary):\n[Memory Update] {<UPDATED_CONTENT>}"
+  },
+  {
+    "act": "Memory: Note (direct)",
+    "prompt": "[Memory Note] {NOTE_CONTENT_HERE}"
+  },
+  {
+    "act": "Memory: Note (wizard)",
+    "prompt": "Create a lower-priority contextual memory note.\n\nAsk me for the note content in ONE question. If I already provided it in my previous message, use that and do not ask again.\n\nThen output ONLY the final command (no commentary):\n[Memory Note] {<NOTE_CONTENT>}"
+  },
+  {
+    "act": "Memory: Forget (direct)",
+    "prompt": "[Memory Forget] {WHAT_TO_FORGET_OR_SCOPE_HERE}"
+  },
+  {
+    "act": "Memory: Forget (wizard)",
+    "prompt": "Remove a memory entry or a defined category/scope.\n\nAsk me what to forget in ONE question (e.g., exact item or scope). If I already provided it in my previous message, use that and do not ask again.\n\nThen output ONLY the final command (no commentary):\n[Memory Forget] {<FORGET_SCOPE_OR_ITEM>}"
+  },
+  {
+    "act": "Memory: Dump",
+    "prompt": "[Memory Dump]"
+  },
+  {
+    "act": "Commands: List",
+    "prompt": "[List Commands]"
+  },
+  {
+    "act": "Commands: Validate",
+    "prompt": "[Validate] {<PASTE YOUR COMMAND(S) HERE>}"
+  }
+]
