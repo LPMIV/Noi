@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Memory: Add",
+    "tag": "Memory",
+    "locked": true,
+    "sendCount": 0,
+    "text": "[Memory Add] {<PASTE NEW LONG-TERM MEMORY HERE>}"
+  },
+  {
+    "name": "Memory: Update",
+    "tag": "Memory",
+    "locked": true,
+    "sendCount": 0,
+    "text": "[Memory Update] {<PASTE UPDATED MEMORY TEXT HERE>}"
+  },
+  {
+    "name": "Memory: Note",
+    "tag": "Memory",
+    "locked": true,
+    "sendCount": 0,
+    "text": "[Memory Note] {<PASTE CONTEXTUAL/LOWER-PRIORITY MEMORY HERE>}"
+  },
+  {
+    "name": "Memory: Forget",
+    "tag": "Memory",
+    "locked": true,
+    "sendCount": 0,
+    "text": "[Memory Forget] {<DESCRIBE WHAT TO FORGET OR THE SCOPE>}"
+  },
+  {
+    "name": "Memory: Dump",
+    "tag": "Memory",
+    "locked": true,
+    "sendCount": 0,
+    "text": "[Memory Dump]"
+  },
+  {
+    "name": "Commands: List",
+    "tag": "Memory",
+    "locked": true,
+    "sendCount": 0,
+    "text": "[List Commands]"
+  },
+  {
+    "name": "Commands: Validate",
+    "tag": "Memory",
+    "locked": true,
+    "sendCount": 0,
+    "text": "[Validate] {<PASTE YOUR COMMAND(S) HERE>}"
+  }
+]
